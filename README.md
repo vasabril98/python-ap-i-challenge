@@ -41,7 +41,7 @@ Next, create a series of scatter plots. Be sure to include the linear regression
 
 After each pair of plots, explain what the linear regression is modeling. Describe any relationships that you notice and any other findings you may uncover.
 
-#### Part 2: VacationPy
+### Part 2: VacationPy
 In this deliverable, you'll use your weather data skills to plan future vacations. Also, you'll use Jupyter notebooks, the [geoViews Python library](https://pypi.org/project/geoviews/), and the [Geoapify API](https://www.geoapify.com/geocoding-api?gclid=CjwKCAiAioifBhAXEiwApzCzttt8iux5VmpwHCZ7kmOD-TCHdNMXAoQqB7eK6VGVq7DMXH-jsNw8IRoCeDgQAvD_BwE).
 
 The code needed to import the required libraries and load the CSV file with the weather and coordinates data for each city created in Part 1 is provided to help you get started.
